@@ -38,9 +38,6 @@ CREATE TABLE `site_users` (
 -- Gegevens worden geëxporteerd voor tabel `site_users`
 --
 
-INSERT INTO `site_users` (`ID`, `name`, `pass`, `functie`) VALUES
-(1, 'Maddox', 'Maddox', 'hoofd');
-
 --
 -- Indexen voor geëxporteerde tabellen
 --
